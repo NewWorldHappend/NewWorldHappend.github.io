@@ -9,5 +9,5 @@ plugins:
 google_analytics: G-LLW8FL2LZW
 
 github:
-  relative_url : twitter.com
+  repository_url : twitter.com
   owner_url : facebook.com
